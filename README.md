@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Rajkumar Verma 👋</h1>  
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Learning DSA & Web Development</h3>  
 
-<img align="right" src="https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f69302e77702e636f6d2f616c6c68746163636573732e696e666f2f776562736974652d646576656c6f7065722e676966" width="400"/>  
+<img align="right" src="https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f69302e77702e636f6d2f616c6c68746163636573732e696e666f2f776562736974652d646576656c6f7065722e676966" width="400"/>
+
 
 ## 🔥 About Me  
 - 🎓 **Student at K.K. Verma Evening College (VBU University)**  
@@ -14,7 +15,6 @@
 ## 🛠️ Tech Stack & Skills  
 
 ### **💻 Languages & Programming**  
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
