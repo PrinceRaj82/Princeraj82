@@ -52,8 +52,9 @@
 ### 🔹 **Portfolio Website** 🌐  
 🔗 [Live Demo](https://Rajkumarprince.netlify.app/) | 📝 [GitHub Repo](https://github.com/PrinceRaj82/portfolio)  
 
-## ### 🔹 **Gemini Ai Clone** 🤖
+## 🔹 **Gemini Ai Clone** 🤖
 🔗 [Live Demo](https://gemini.netlify.app/) | 📝 [GitHub Repo](https://github.com/PrinceRaj82/GeminiClone)  
+
 ---
 
 ## 📈 GitHub Stats  
