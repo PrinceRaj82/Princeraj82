@@ -67,9 +67,9 @@
 ---
 
 ## 🤝 Connect with Me  
-📩 **Email:** [rajkumar@gmail.com](mailto:rajkumarverma.myself@gmail.com)  
+📩 **Email:** [rajkumarverma.webdev@gmail.com](mailto:rajkumarverma.webdev@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/rajkumarprince](https://www.linkedin.com/in/rajkumarprince)  
-📝 **Portfolio:** [personal website](https://rajkumarprince.me)  
+📝 **Portfolio:** [Portfolio](https://rajkumarprince.me)  
 
 ---
 
